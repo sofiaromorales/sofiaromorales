@@ -2,8 +2,6 @@
   <h2>Hi there! I'm Sofía 👋</h2>
 </div>
 
-<hr/>
-
 
 <!--
 <div>
