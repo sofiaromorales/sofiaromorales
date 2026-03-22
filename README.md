@@ -1,9 +1,5 @@
 <div align='center'>
   <h2>Hi there! I'm Sofía 👋</h2>
-  
-  <p>
-  </p>
-  <img alt='dumb cat' height='200px' src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" />
 </div>
 
 <hr/>
