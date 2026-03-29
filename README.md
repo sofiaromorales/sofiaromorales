@@ -5,7 +5,7 @@
 
 <!--
 <div>
-   <img align='left' height='200px' alt="Sofia's github stats" src="https://github-readme-stats.vercel.app/api?username=sofiaromorales&show_icons=true&theme=prussian"/>
+   <img align='left' height='200px' alt="Sofia's github stats" src="https://github-readme-stats.shion.dev/api?username=sofiaromorales&show_icons=true&theme=prussian"/>
 </div>
 -->
 
